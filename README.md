@@ -6,7 +6,7 @@ Målet här är praktiskt: en liten, växande datamängd + Python-skript som gö
 
 ## Struktur
 
-- `data/heteronyms_sv.csv` – exempeldata (svenska)
+- `data/heteronyms_sv.csv` – exempeldata (svenska, fokus)
 - `scripts/make_plots.py` – genererar figurer till `figures/`
 
 ## Kom igång
@@ -36,5 +36,5 @@ CSV-kolumner:
 ## Nästa steg (om du vill)
 
 - Lägga till fler ord + källhänvisningar
-- Stöd för flera språk (t.ex. `en`)
+- (Valfritt) Stöd för fler språk senare
 - En liten webbsida/Streamlit-app för att filtrera och lyssna på TTS
